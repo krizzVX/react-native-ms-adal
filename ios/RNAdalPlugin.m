@@ -11,7 +11,7 @@
 
 #import "React/RCTLog.h"
 
-#import <ADAL/ADAL.h>
+#import "ADAL.h"
 
 @implementation RNAdalPlugin
 

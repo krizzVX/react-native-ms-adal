@@ -7,7 +7,7 @@
 // Modifications by Sam Colby to work with React Native instead of Cordova
 
 #import <Foundation/Foundation.h>
-#import <ADAL/ADAL.h>
+#import "ADAL.h"
 
 // Implements helper functionality for Cordova ADAL Plugin.
 @interface RNAdalUtils : NSObject
